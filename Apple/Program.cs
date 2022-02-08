@@ -6,7 +6,8 @@ namespace Apple
     {
         static void Main(string[] args)
         {
-            int a = 42;
+            string a = "apple";
+            a = "2022.02.08";
             Console.WriteLine(a);
             Console.WriteLine("Hello World!");
         }
