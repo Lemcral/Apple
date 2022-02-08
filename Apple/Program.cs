@@ -6,6 +6,8 @@ namespace Apple
     {
         static void Main(string[] args)
         {
+            int a = 42;
+            Console.WriteLine(a);
             Console.WriteLine("Hello World!");
         }
     }
